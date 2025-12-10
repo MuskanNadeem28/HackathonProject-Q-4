@@ -1,0 +1,24 @@
+{
+  "id": "capstone-autonomous-humanoid/humanoid-design",
+  "title": "Humanoid Robot Design",
+  "description": "Introduction to Humanoid Robotics",
+  "source": "@site/docs/capstone-autonomous-humanoid/humanoid-design.md",
+  "sourceDirName": "capstone-autonomous-humanoid",
+  "slug": "/capstone-autonomous-humanoid/humanoid-design",
+  "permalink": "/physical-ai-humanoid-robotics/docs/capstone-autonomous-humanoid/humanoid-design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/capstone-autonomous-humanoid/humanoid-design.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone: Autonomous Humanoid Robot",
+    "permalink": "/physical-ai-humanoid-robotics/docs/"
+  },
+  "next": {
+    "title": "Module 1: ROS 2 (Robot Operating System 2)",
+    "permalink": "/physical-ai-humanoid-robotics/docs/"
+  }
+}
